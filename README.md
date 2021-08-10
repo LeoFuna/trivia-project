@@ -42,7 +42,7 @@ Olá seja bem vindo(a) ao meu projeto Trivia, esse projeto foi desenvolvido em g
 
 2. Instale as dependências:
   * `npm install`
-  *
+
 3. Inicialize o projeto:
   * `npm start`
 
